@@ -1,0 +1,5 @@
+#ifndef DIFFICULTY_H
+#define DIFFICULTY_H
+
+typedef enum { EASY, MEDIUM, HARD} DIFFICULTY;
+#endif // DIFFICULTY_H

@@ -1,0 +1,43 @@
+			Game Settings
++---------------------------------------+			15 Lines - 42 Cols
+|           Set Key Bindings            |			Key Settings @ C 9
++---------------------------------------+
+| Difficulty     | Easy | Medium | Hard |			Easy @ C 20 Medium @ C 27 Hard @ C 36
++----------------+------+---------------+
+| Check On Entry | Yes  | No            |			Yes @ C 20  No @ C 26
++----------------+------+---------------+
+| Guess Limit (0 = inf) |   5           |			Value C 29&30
++-----------------------+---------------+
+| Hint Limit            |   20          |
++-----------------------+---------------+
+| Default | Cancel | Done               |
++---------------------------------------+
+
+
+
+     Key Bindings          
++-----------------+---+---+
+| Function        | 1 | 2 |			26 Lines - 28 Columns
++-----------------+---+---+
+| Cursor Up       | w | k |	 row5		Key 1 @ col 21 Key 2 @ col 25
++-----------------+---+---+
+| Cursor Down     | s | j |			Keys start at line 9
++-----------------+---+---+
+| Cursor Left     | a | h |			Default @ col 3
++-----------------+---+---+			Cancel @ col 13
+| Cursor Right    | d | l |			Done @ col 22
++-----------------+---+---+
+| Remove Number   | x |del|
++-----------------+---+---+
+| Get Hint        | h | ? |
++-----------------+---+---+
+| Check Solution  | c |   |
++-----------------+---+---+
+| Solve Puzzle    | S |   |
++-----------------+---+---+
+| New Game        | n | N |
++-----------------+---+---+
+| Quit            | q | Q |
++-----------------+---+---+
+| Default | Cancel | Done |
++---------+--------+------+
